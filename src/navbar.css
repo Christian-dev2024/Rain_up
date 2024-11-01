@@ -1,0 +1,26 @@
+.nav-bar{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #6A49FA;
+    position: relative;
+    right: 25%;
+}
+
+.container-search{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.barre{
+    width: 22rem ;
+}
+
